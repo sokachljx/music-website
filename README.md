@@ -1,2 +1,5 @@
-# 网抑云music
-一个基于springboot+mybatis+vue的音乐网站（非原创）
+                                                                    # 网抑云music
+项目介绍
+
+
+项目预览
